@@ -1,6 +1,6 @@
 {
   "name": "@dotforge/core",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Core library for Dotforge",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -22,13 +22,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tailstory/dotforge-js-core.git"
+    "url": "git+https://github.com/tailstory-dotforge/core.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tailstory/dotforge-js-core/issues"
+    "url": "https://github.com/tailstory-dotforge/core/issues"
   },
-  "homepage": "https://github.com/tailstory/dotforge-js-core#readme"
+  "homepage": "https://github.com/tailstory-dotforge/core#readme"
 }
