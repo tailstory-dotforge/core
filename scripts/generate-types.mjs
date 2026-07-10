@@ -1,8 +1,8 @@
 import { compileFromFile } from "json-schema-to-typescript";
 import { writeFileSync } from "node:fs";
 
-const schemaPath = "schemas/artboard.schema.json";
-const outPath = "src/artboard.ts";
+const schemaPath = "schemas/document.schema.json";
+const outPath = "src/document.ts";
 
 const ts = await compileFromFile(schemaPath, { bannerComment: "" });
 writeFileSync(outPath, ts);
