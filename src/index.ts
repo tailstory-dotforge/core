@@ -1,1 +1,1 @@
-export * from "./artboard";
+export * from "./document";

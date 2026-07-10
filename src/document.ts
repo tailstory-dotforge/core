@@ -1,4 +1,4 @@
-export interface ArtboardDocument {
+export interface DotforgeDocument {
   /**
    * mm
    */

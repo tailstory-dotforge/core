@@ -1,3 +1,3 @@
-# DotForge - JS - core
+# Dotforge - JS - core
 
-DotForge core JS package
+Dotforge core JS package
