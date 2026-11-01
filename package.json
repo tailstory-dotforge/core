@@ -13,8 +13,8 @@
     }
   },
   "devDependencies": {
-    "json-schema-to-typescript": "^15.0.4",
-    "typescript": "^6.0.2"
+    "json-schema-to-typescript": "^16.0.0",
+    "typescript": "^7.0.2"
   },
   "scripts": {
     "build": "tsc",
